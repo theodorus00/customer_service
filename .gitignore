@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+
+# Kredensial
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# File lokal
+.vscode/
+*.log
+.cache/
+
+# Data lokal dan hasil embedding
+data/*.csv
+*.npy
+*.npz

@@ -1,0 +1,6 @@
+langchain-community
+langchain-postgres
+langchain-groq
+fastembed
+python-dotenv
+streamlit
